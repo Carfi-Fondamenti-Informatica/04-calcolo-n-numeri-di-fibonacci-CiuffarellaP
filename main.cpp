@@ -7,7 +7,7 @@ int main() {
     if (n>=2)
     {cout<<a<<endl<<b<<endl;
     while(i++ <=n){
-        cout<<a+b<<" "<<endl;
+        cout<<a+b<<endl;
         if(a<b){
             a+=b;
         }else
